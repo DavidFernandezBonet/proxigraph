@@ -42,7 +42,7 @@ pip install proxigraph
 ```
 
 
-## Quick Start Example
+## Get-Started Example
 
 Below is an example showing how to generate a graph, retrieve the edges and positions as DataFrames, get a NetworkX graph, and plot the graph:
 
@@ -88,7 +88,7 @@ plt.show()
 ```
 
 
-## Quick Documentation
+## Config
 
 All configuration options are encapsulated in the `GraphConfig` dataclass. The key attributes include:
 
