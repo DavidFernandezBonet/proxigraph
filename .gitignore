@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$PYTHONLEGACYWINDOWSSTDIO*
+
+# Virtual environment
+venv/
+.env/
+*.venv/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Testing
+.coverage
+.tox/
+nosetests.xml
+pytest_cache/
+htmlcov/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# VS Code settings
+.vscode/
+
+# IDE configurations
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
